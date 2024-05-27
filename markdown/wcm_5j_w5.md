@@ -45,7 +45,7 @@ Author: kmol
 
 
 # 第十周課程內容
-
+ 倉儲網站連結
 51233101: <a href="https://github.com/Chen-Yi-jing/wcm2024">倉儲</a> | <a href="https://Chen-Yi-jing.github.io/wcm2024">網站</a>
 51233102: <a href="https://github.com/51233102/wcm2024">倉儲</a> | <a href="https://51233102.github.io/wcm2024">網站</a>
 51233103: <a href="https://github.com/Lin-Si-yu/wcm2024">倉儲</a> | <a href="https://Lin-Si-yu.github.io/wcm2024">網站</a>
@@ -101,3 +101,11 @@ Author: kmol
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p0pyvm6jfYU?si=IdhMJZPq4SPdLX2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
+# 
+
+
+
