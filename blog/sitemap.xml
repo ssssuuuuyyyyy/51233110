@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-05-27T08:35:43-00:00</lastmod>
+<lastmod>2024-05-27T08:41:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-05-27T08:35:43-00:00</lastmod>
+<lastmod>2024-05-27T08:41:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-05-27T08:35:43-00:00</lastmod>
+<lastmod>2024-05-27T08:41:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-05-27T08:35:43-00:00</lastmod>
+<lastmod>2024-05-27T08:41:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -60,6 +60,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./wcm-5j-w13.html</loc>
+<lastmod>2024-05-27T08:41:19+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./wcm_5j_w5.html</loc>
 <lastmod>2024-04-22T09:04:17+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -68,7 +75,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./wcm-5j-w5.html</loc>
-<lastmod>2024-05-27T08:24:41+08:00</lastmod>
+<lastmod>2024-05-27T08:41:39+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -123,15 +130,29 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./tag/cai-shu-zi-you-xi.html</loc>
+<lastmod>2024-05-27T08:41:19+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/w13.html</loc>
+<lastmod>2024-05-27T08:41:19+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./tag/chatgpt.html</loc>
-<lastmod>2024-05-27T08:24:41+08:06</lastmod>
+<lastmod>2024-05-27T08:41:39+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/w5.html</loc>
-<lastmod>2024-05-27T08:24:41+08:06</lastmod>
+<lastmod>2024-05-27T08:41:39+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
