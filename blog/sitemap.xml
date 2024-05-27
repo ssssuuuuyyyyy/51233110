@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-05-27T07:50:57-00:00</lastmod>
+<lastmod>2024-05-27T08:19:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-05-27T07:50:57-00:00</lastmod>
+<lastmod>2024-05-27T08:19:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-05-27T07:50:57-00:00</lastmod>
+<lastmod>2024-05-27T08:19:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-05-27T07:50:57-00:00</lastmod>
+<lastmod>2024-05-27T08:19:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +34,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./pages/about/</loc>
 <lastmod>2024-02-26T08:41:48+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./wcm-5j-w10.html</loc>
+<lastmod>2024-05-27T08:19:21+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -47,28 +54,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./wcm-5j-w5.html</loc>
-<lastmod>2024-05-27T07:49:12+08:00</lastmod>
+<lastmod>2024-05-27T08:18:17+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/wu-zhuan.html</loc>
-<lastmod>2024-05-27T07:49:12+08:06</lastmod>
+<lastmod>2024-05-27T16:20:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/wang-zhi.html</loc>
+<lastmod>2024-05-27T16:20:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/w10.html</loc>
+<lastmod>2024-05-27T16:20:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/chatgpt.html</loc>
-<lastmod>2024-05-27T07:49:12+08:06</lastmod>
+<lastmod>2024-05-27T08:18:17+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/w5.html</loc>
-<lastmod>2024-05-27T07:49:12+08:06</lastmod>
+<lastmod>2024-05-27T08:18:17+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -82,7 +103,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./author/kmol.html</loc>
-<lastmod>2024-05-27T07:49:12+08:06</lastmod>
+<lastmod>2024-05-27T16:20:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
