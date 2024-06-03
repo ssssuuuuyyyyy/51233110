@@ -1,5 +1,5 @@
 ---
-Title: WCM 五專第五週課程內容
+Title: WCM 五專第13週課程內容
 Date: 2024-05-18 16:00
 Category: 五專
 Tags: 猜數字遊戲, w13
