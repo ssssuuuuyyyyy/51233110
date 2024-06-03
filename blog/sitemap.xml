@@ -5,245 +5,266 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-06-03T08:14:57-00:00</lastmod>
+<lastmod>2024-06-03T08:47:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-06-03T08:14:57-00:00</lastmod>
+<lastmod>2024-06-03T08:47:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-06-03T08:14:57-00:00</lastmod>
+<lastmod>2024-06-03T08:47:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-06-03T08:14:57-00:00</lastmod>
+<lastmod>2024-06-03T08:47:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2024-02-26T08:41:48+08:00</lastmod>
+<lastmod>2024-06-03T08:20:38+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./wcm-5j-w8.html</loc>
-<lastmod>2024-06-03T08:14:02+08:00</lastmod>
+<lastmod>2024-06-03T08:20:38+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./wcm-5j-w10.html</loc>
-<lastmod>2024-06-03T08:14:12+08:00</lastmod>
+<lastmod>2024-06-03T08:20:38+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./wcm-5j-w12.html</loc>
-<lastmod>2024-06-03T08:14:21+08:00</lastmod>
+<lastmod>2024-06-03T08:20:38+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./wcm-5j-w13.html</loc>
-<lastmod>2024-06-03T08:14:16+08:00</lastmod>
+<lastmod>2024-06-03T08:20:38+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./wcm_5j_w5.html</loc>
-<lastmod>2024-04-22T09:04:17+08:00</lastmod>
+<lastmod>2024-06-03T08:20:38+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./wcm-5j-w6.html</loc>
+<lastmod>2024-06-03T08:46:52+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./wcm-5j-w5.html</loc>
-<lastmod>2024-05-27T08:46:41+08:00</lastmod>
+<lastmod>2024-06-03T08:20:38+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./wcm-5j-w4.html</loc>
-<lastmod>2024-06-03T08:14:30+08:00</lastmod>
+<lastmod>2024-06-03T08:20:38+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./wcm-5j-w3.html</loc>
-<lastmod>2024-06-03T08:14:34+08:00</lastmod>
+<lastmod>2024-06-03T08:20:38+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./Starting-5J-WCM-course.html</loc>
-<lastmod>2024-05-27T08:54:03+08:00</lastmod>
+<lastmod>2024-06-03T08:20:38+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/wu-zhuan.html</loc>
-<lastmod>2024-06-03T08:14:34+08:06</lastmod>
+<lastmod>2024-06-03T08:46:52+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/qi-zhong-kao.html</loc>
-<lastmod>2024-06-03T08:14:02+08:06</lastmod>
+<lastmod>2024-06-03T08:20:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/w8.html</loc>
-<lastmod>2024-06-03T08:14:02+08:06</lastmod>
+<lastmod>2024-06-03T08:20:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/wang-zhi.html</loc>
-<lastmod>2024-06-03T08:14:12+08:06</lastmod>
+<lastmod>2024-06-03T08:20:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/w10.html</loc>
-<lastmod>2024-06-03T08:14:12+08:06</lastmod>
+<lastmod>2024-06-03T08:20:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/fen-nu-niao.html</loc>
-<lastmod>2024-06-03T08:14:21+08:06</lastmod>
+<lastmod>2024-06-03T08:20:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/w12.html</loc>
-<lastmod>2024-06-03T08:14:21+08:06</lastmod>
+<lastmod>2024-06-03T08:20:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/cai-shu-zi-you-xi.html</loc>
-<lastmod>2024-06-03T08:14:16+08:06</lastmod>
+<lastmod>2024-06-03T08:20:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/w13.html</loc>
-<lastmod>2024-06-03T08:14:16+08:06</lastmod>
+<lastmod>2024-06-03T08:20:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/chatgpt.html</loc>
-<lastmod>2024-05-27T08:46:41+08:06</lastmod>
+<lastmod>2024-06-03T08:20:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/w5.html</loc>
-<lastmod>2024-05-27T08:46:41+08:06</lastmod>
+<lastmod>2024-06-03T08:20:38+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/video.html</loc>
+<lastmod>2024-06-03T08:46:52+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/w6.html</loc>
+<lastmod>2024-06-03T08:46:52+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/ji-gai.html</loc>
-<lastmod>2024-06-03T08:14:34+08:06</lastmod>
+<lastmod>2024-06-03T08:20:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/fen-zu.html</loc>
-<lastmod>2024-06-03T08:14:34+08:06</lastmod>
+<lastmod>2024-06-03T08:20:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/w4.html</loc>
-<lastmod>2024-06-03T08:14:30+08:06</lastmod>
+<lastmod>2024-06-03T08:20:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/w3.html</loc>
-<lastmod>2024-06-03T08:14:34+08:06</lastmod>
+<lastmod>2024-06-03T08:20:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/github.html</loc>
-<lastmod>2024-05-27T08:54:03+08:06</lastmod>
+<lastmod>2024-06-03T08:20:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/ms_online.html</loc>
-<lastmod>2024-05-27T08:54:03+08:06</lastmod>
+<lastmod>2024-06-03T08:20:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/w1.html</loc>
-<lastmod>2024-05-27T08:54:03+08:06</lastmod>
+<lastmod>2024-06-03T08:20:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/w2.html</loc>
-<lastmod>2024-05-27T08:54:03+08:06</lastmod>
+<lastmod>2024-06-03T08:20:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/51233110.html</loc>
-<lastmod>2024-04-22T09:04:17+08:06</lastmod>
+<lastmod>2024-06-03T08:20:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/kmol.html</loc>
-<lastmod>2024-06-03T08:14:34+08:06</lastmod>
+<lastmod>2024-06-03T08:46:52+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
